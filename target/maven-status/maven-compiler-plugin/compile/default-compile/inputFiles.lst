@@ -1,0 +1,11 @@
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\controller\CategoriaServlet.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\jpa\LibroJpaController.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\bean\BeanLibro.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\entidades\Categoria.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\entidades\Libro.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\jpa\CategoriaJpaController.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\jpa\exceptions\PreexistingEntityException.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\jpa\exceptions\IllegalOrphanException.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\bean\BeanCategoria.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\controller\LibroServlet.java
+C:\temp\biblio2-master\biblio2-master\src\main\java\com\emergentes\jpa\exceptions\NonexistentEntityException.java
